@@ -158,7 +158,7 @@ adbTool.pairAdb("192.168.1.100", 42073, "123456", new AdbPairCallback() {
 3. 归属声明：在应用关于页面声明使用了本库并保留版权声明
 4. 协议保持：不得改为 MIT/Apache 等允许商业贩卖的协议
 
-完整协议文本请参阅 [LICENSE](LICENSE) 和 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
+完整协议文本请参阅 [LICENSE](LICENSE)。
 
 ---
 
