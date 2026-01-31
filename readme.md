@@ -27,9 +27,6 @@ AdbToolSingleton 是一个用于 Android 无线 ADB 调试的单例工具类，�
 dependencies {
     // 必需：libadb-android 库
     implementation 'io.github.muntashirakon:libadb-android:2.0.0'
-    
-    // 可选：将本库作为模块导入
-    implementation project(':AdbToolSingleton')
 }
 ```
 
